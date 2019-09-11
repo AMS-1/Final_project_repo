@@ -39,15 +39,7 @@
   // Collapse the navbar when page is scrolled
   $(window).scroll(navbarCollapse);
 
- 
-
-
-})(jQuery); // End of use strict
-
-
-
-
-$(document).ready(function() {
+  $(document).ready(function() {
     
     /* Every time the window is scrolled ... */
     $(window).scroll( function(){
@@ -70,3 +62,11 @@ $(document).ready(function() {
     });
     
 });
+
+
+})(jQuery); // End of use strict
+
+
+
+
+
